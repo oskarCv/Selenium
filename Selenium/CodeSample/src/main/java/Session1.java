@@ -10,5 +10,6 @@ public class Session1 {
         driver = new ChromeDriver();
 
         driver.get("http://www.google.com");
+        System.out.print("-> title >>>> "+ driver.getTitle());
     }
 }
