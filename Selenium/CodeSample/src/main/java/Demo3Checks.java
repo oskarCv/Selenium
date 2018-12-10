@@ -8,7 +8,7 @@ public class Demo3Checks {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/ChecksSample.html?_ijt=a9srfeu9es0j4qbsv9kklm4sl1";
+        String url = "http://localhost:63342/session1/WebContent/ChecksSample.html?_ijt=qeilo2q1neunth38486hk4d67a";
         driver.get(url);
 
 

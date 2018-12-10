@@ -11,7 +11,7 @@ public class Demo3List {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/ListSample.html?_ijt=nel20ftubt9ol04ugk2bh4765t";
+        String url = "http://localhost:63342/session1/WebContent/ListSample.html?_ijt=tpk2feomh0n52hpe6bl7mhj2ac";
         driver.get(url);
 
 
@@ -20,9 +20,9 @@ public class Demo3List {
         System.out.println("------------------------> S E L E C T E D   O P T I O N <------------------------");
         WebElement element;
         for(int i = 0 ; i< elements.size();i++){
-            if(!elements.get(i).isSelected()){
+            if(elements.get(i).isSelected()){
                 element = elements.get(i);
-                System.out.print("Element "+ element.getAttribute("value"));
+                System.out.println("< "+ element.getAttribute("value")+" >");
             }
         }
         System.out.println("-------------------------------------------------------------------------------");
