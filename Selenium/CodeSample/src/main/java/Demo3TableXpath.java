@@ -8,7 +8,7 @@ public class Demo3TableXpath {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/TableSample.html?_ijt=k80atm0ognludc7c89ieo2kfpe";
+        String url = "file:///Users/oskarchavez/Documents/OskarCv/Trainings/Selenium/Selenium/CodeSample/WebContent/TableSample.html";
         driver.get(url);
 
 

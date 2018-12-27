@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d23e8e27-2288-46ee-a1a8-7b4a12ca49fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/TableSample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo3TableXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo4Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumtest/Drivers/chrome/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumtest/Drivers/geko/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumtest/src/main/java/Demo2FindingElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumFromScratch.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumFromScratch.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/ButtonSample.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ButtonSample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo2FindingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo2FindingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo3Checks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo3Checks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo3List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo3List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo3RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo3RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo3TableXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo3TableXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo2FindingElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo2FindingElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo3Checks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo3Checks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo3List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo3List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo3RadioButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo3RadioButtons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo3TableXpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo3TableXpath.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,49 +39,162 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="html" value="4" />
+          <entry key="java" value="14" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="html" value="18" />
+          <entry key="java" value="630" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="HTML" value="18" />
+          <entry key="JAVA" value="630" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Session1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/ButtonSample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="171">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo2FindingElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="69" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#330#368#1" expanded="true" />
+                <element signature="e#377#412#1" expanded="true" />
+                <element signature="e#448#523#1" expanded="true" />
+                <element signature="e#631#698#1" expanded="true" />
+                <element signature="e#735#820#1" expanded="true" />
+                <element signature="e#829#897#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo3Checks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="230">
+              <caret line="10" column="137" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="137" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#321#359#1" expanded="true" />
+                <element signature="e#507#545#1" expanded="true" />
+                <element signature="e#658#704#1" expanded="true" />
+                <element signature="e#933#955#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo3RadioButtons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/ChecksSample.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo3List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#382#1" expanded="true" />
+                <element signature="e#392#498#1" expanded="true" />
+                <element signature="e#625#696#1" expanded="true" />
+                <element signature="e#678#745#1" expanded="true" />
+                <element signature="e#821#838#1" expanded="true" />
+                <element signature="e#810#821#1" expanded="true" />
+                <element signature="e#806#1037#0" expanded="true" />
+                <element signature="e#806#1037#0" expanded="true" />
+                <element signature="e#806#1037#0" expanded="true" />
+                <element signature="e#1085#1100#0" expanded="true" />
+                <element signature="e#1085#1100#0" expanded="true" />
+                <element signature="e#811#839#0" expanded="true" />
+                <element signature="e#1142#1157#0" expanded="true" />
+                <element signature="e#1142#1157#0" expanded="true" />
+                <element signature="e#1194#1234#0" expanded="true" />
+                <element signature="e#1194#1234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo3TableXpath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+              <folding>
+                <element signature="e#326#364#1" expanded="true" />
+                <element signature="e#374#481#1" expanded="true" />
+                <element signature="e#517#602#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo4Wait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+              <folding>
+                <element signature="e#320#358#1" expanded="true" />
+                <element signature="e#367#402#1" expanded="true" />
+                <element signature="e#438#513#1" expanded="true" />
+                <element signature="e#878#927#1" expanded="true" />
+                <element signature="e#1123#1190#1" expanded="true" />
+                <element signature="e#1041#1126#1" expanded="true" />
+                <element signature="e#1296#1357#0" expanded="true" />
+                <element signature="e#1296#1357#0" expanded="true" />
+                <element signature="e#1135#1203#1" expanded="true" />
+                <element signature="e#1253#1275#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/ListSample.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/TableSample.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -82,13 +206,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Session1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo2FindingElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo3Checks.java" />
+        <option value="$PROJECT_DIR$/WebContent/ButtonSample.html" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo3RadioButtons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo3List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo3TableXpath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo4Wait.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="995" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3" />
+    <option name="y" value="28" />
+    <option name="width" value="1461" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,12 +244,6 @@
             <path>
               <item name="session1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeSample" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="geko" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="session1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeSample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -133,6 +259,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="session1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeSample" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,10 +272,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,15 +294,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo4Wait">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Session1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Session1" />
+    <configuration name="Demo2FindingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo2FindingElements" />
+      <module name="session1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo3List" />
+      <module name="session1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo3RadioButtons" />
+      <module name="session1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3TableXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo3TableXpath" />
+      <module name="session1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4Wait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo4Wait" />
       <module name="session1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -202,9 +370,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Demo2FindingElements" />
+      <item itemvalue="Application.Demo3RadioButtons" />
+      <item itemvalue="Application.Demo3List" />
+      <item itemvalue="Application.Demo3TableXpath" />
+      <item itemvalue="Application.Demo4Wait" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Session1" />
+        <item itemvalue="Application.Demo4Wait" />
+        <item itemvalue="Application.Demo3TableXpath" />
+        <item itemvalue="Application.Demo3List" />
+        <item itemvalue="Application.Demo3RadioButtons" />
+        <item itemvalue="Application.Demo2FindingElements" />
       </list>
     </recent_temporary>
   </component>
@@ -219,23 +398,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="995" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24760602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,19 +431,129 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Session1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="392">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Session1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="169">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ChecksSample.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo3Checks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="137" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="137" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#321#359#1" expanded="true" />
+            <element signature="e#507#545#1" expanded="true" />
+            <element signature="e#658#704#1" expanded="true" />
+            <element signature="e#933#955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/TableSample.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ButtonSample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo3RadioButtons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ListSample.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo3List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#382#1" expanded="true" />
+            <element signature="e#392#498#1" expanded="true" />
+            <element signature="e#625#696#1" expanded="true" />
+            <element signature="e#678#745#1" expanded="true" />
+            <element signature="e#821#838#1" expanded="true" />
+            <element signature="e#810#821#1" expanded="true" />
+            <element signature="e#806#1037#0" expanded="true" />
+            <element signature="e#806#1037#0" expanded="true" />
+            <element signature="e#806#1037#0" expanded="true" />
+            <element signature="e#1085#1100#0" expanded="true" />
+            <element signature="e#1085#1100#0" expanded="true" />
+            <element signature="e#811#839#0" expanded="true" />
+            <element signature="e#1142#1157#0" expanded="true" />
+            <element signature="e#1142#1157#0" expanded="true" />
+            <element signature="e#1194#1234#0" expanded="true" />
+            <element signature="e#1194#1234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo3TableXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+          <folding>
+            <element signature="e#326#364#1" expanded="true" />
+            <element signature="e#374#481#1" expanded="true" />
+            <element signature="e#517#602#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo2FindingElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="69" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#368#1" expanded="true" />
+            <element signature="e#377#412#1" expanded="true" />
+            <element signature="e#448#523#1" expanded="true" />
+            <element signature="e#631#698#1" expanded="true" />
+            <element signature="e#735#820#1" expanded="true" />
+            <element signature="e#829#897#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo4Wait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+          <folding>
+            <element signature="e#320#358#1" expanded="true" />
+            <element signature="e#367#402#1" expanded="true" />
+            <element signature="e#438#513#1" expanded="true" />
+            <element signature="e#878#927#1" expanded="true" />
+            <element signature="e#1123#1190#1" expanded="true" />
+            <element signature="e#1041#1126#1" expanded="true" />
+            <element signature="e#1296#1357#0" expanded="true" />
+            <element signature="e#1296#1357#0" expanded="true" />
+            <element signature="e#1135#1203#1" expanded="true" />
+            <element signature="e#1253#1275#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -272,6 +561,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -295,6 +608,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>session1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>JDK_1.8.0</last-edited>
@@ -309,10 +635,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.seleniumhq.selenium:selenium-ie-driver:3.141.59</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5482759" />
               </list>
             </option>
           </splitter-proportions>

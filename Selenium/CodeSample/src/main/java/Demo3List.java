@@ -2,7 +2,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
@@ -11,12 +11,15 @@ public class Demo3List {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/ListSample.html?_ijt=tpk2feomh0n52hpe6bl7mhj2ac";
+        String url = "file:///Users/oskarchavez/Documents/OskarCv/Trainings/Selenium/Selenium/CodeSample/WebContent/ListSample.html";
         driver.get(url);
 
+        List <WebElement> elements = driver.findElements(By.tagName("option"));
 
-        List<WebElement> elements = driver.findElements(By.tagName("option"));
-
+        Select list = new Select(driver.findElement(By.tagName("select")));
+        //elements.get(1).click();
+        list.selectByIndex(2);
+        System.out.println(list.getOptions().toArray().toString());
         System.out.println("------------------------> S E L E C T E D   O P T I O N <------------------------");
         WebElement element;
         for(int i = 0 ; i< elements.size();i++){

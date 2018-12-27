@@ -8,11 +8,11 @@ public class Demo3RadioButtons {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/ButtonSample.html?_ijt=idvvtogqeq99tvm5renkdumq2";
+        String url = "file:///Users/oskarchavez/Documents/OskarCv/Trainings/Selenium/Selenium/CodeSample/WebContent/ButtonSample.html";
         driver.get(url);
 
 
-        WebElement element = driver.findElements(By.tagName("input")).get(1);
+        WebElement element = driver.findElement(By.id("green"));
         element.click();
         System.out.println("------------------------> S E L E C T E D   C O L O R <------------------------");
         System.out.println(element.getAttribute("value"));

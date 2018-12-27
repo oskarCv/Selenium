@@ -11,7 +11,7 @@ public class Demo2FindingElements {
 
         driver.get(url);
 
-        WebElement searchElement = driver.findElement(By.name("q"));
+        WebElement searchElement = driver.findElement(By.className("b_searchbox"));
 
         searchElement.sendKeys("las locuras del emperador gif");
         searchElement.submit();

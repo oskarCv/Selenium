@@ -8,12 +8,13 @@ public class Demo3Checks {
         System.setProperty("webdriver.chrome.driver","Drivers/chrome/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        String url = "http://localhost:63342/session1/WebContent/ChecksSample.html?_ijt=qeilo2q1neunth38486hk4d67a";
+        //String url = "file:///Users/oskarchavez/Documents/OskarCv/Trainings/Selenium/Selenium/CodeSample/WebContent/ChecksSample.html";
+        String url = "http://www.google.com";
         driver.get(url);
-
-
-        WebElement element = driver.findElements(By.name("activity")).get(2);
-        element.click();
+        //WebElement element = driver.findElements(By.name("activity")).get(0);
+        WebElement element = driver.findElement(By.name("q"));
+        element.sendKeys("sdfc");
+        element.submit();
         System.out.println("------------------------> S E L E C T E D   C O L O R <------------------------");
         System.out.println(element.getAttribute("value"));
         System.out.println("-------------------------------------------------------------------------------");
