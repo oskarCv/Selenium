@@ -12,7 +12,8 @@ public class Demo3TableXpath {
         driver.get(url);
 
 
-        WebElement element = driver.findElement(By.xpath("//table[@name = 'table2']//td/a"));
+        //WebElement element = driver.findElement(By.xpath("//table[@name = 'table2']//td/a"));
+        WebElement element = driver.findElement(By.xpath("//a"));
         element.click();
         System.out.println("------------------------> S E L E C T E D <------------------------");
         System.out.println("Tag of HTML Node: "+element.getTagName());
